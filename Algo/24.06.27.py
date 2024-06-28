@@ -1,4 +1,4 @@
-# 좌표 정렬하기 실버5
+# 2751 수 정렬하기 실버5
 
 import sys
 input = sys.stdin.readline
