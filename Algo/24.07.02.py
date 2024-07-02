@@ -21,3 +21,5 @@ for i in T_List:
             cnt += (ans + 1)
 print(cnt)
 print(N // P, N % P)
+
+# 반례 한가지 티셔츠 사이즈가 0일 경우
