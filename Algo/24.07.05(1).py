@@ -1,6 +1,5 @@
 # 1920 수 찾기 실버4
 
-
 def binary(arr, target):
     start, end = 0, len(arr)-1
     while start <= end:
