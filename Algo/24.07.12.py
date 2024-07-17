@@ -1,3 +1,5 @@
+# Z 실버1
+
 import sys
 input = sys.stdin.readline
 
