@@ -18,7 +18,7 @@ print('<'+', '.join(ans)+'>')
 
 # 위에서 rotate를 쓰니 시간이 1/33 으로 줄어들었다.
 # rotate는 디폴트 방향이 앞쪽 인덱스를 뒤쪽에 이어붙히는게 아니라 뒤쪽인덱스를 앞으로 이어붙히는것이기때문에
-# -를 써서 방향을 바꿔줘야한다.
+# -를 써서 방향을 바꿔줘야한다. 매우중요
 
 import sys
 from collections import deque
