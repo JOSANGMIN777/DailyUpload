@@ -10,7 +10,7 @@ def solution(n, words):
             else:
                 answer.append(n)
             answer.append(math.ceil((i+1)/n))
-            break
+            return answer
         else:    
             spoken.append(words[i])
     if not answer:
